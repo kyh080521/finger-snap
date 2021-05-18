@@ -1,6 +1,6 @@
 # Rock Paper Scissors Machine
 
-Simplify [https://github.com/ntu-rris](RRIS)'s [code](https://github.com/ntu-rris/google-mediapipe) A.I. rock paper scissors machine using MediaPipe and KNN.
+Simplify [RRIS](https://github.com/ntu-rris)'s [code](https://github.com/ntu-rris/google-mediapipe) A.I. rock paper scissors machine using MediaPipe and KNN.
 
 ![](result.gif)
 
