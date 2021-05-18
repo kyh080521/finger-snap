@@ -1,3 +1,17 @@
+# Rock Paper Scissors Machine
+
+Simplify [https://github.com/ntu-rris](RRIS)'s [code](https://github.com/ntu-rris/google-mediapipe) A.I. rock paper scissors machine using MediaPipe and KNN.
+
+![](result.gif)
+
+## Run
+
+```
+python dual.py
+```
+
+---
+
 # [Google MediaPipe](https://github.com/google/mediapipe) for Pose Estimation
 
 [![](doc/rris_database.gif)](https://www.nature.com/articles/s41597-020-00627-7?sf237508323=1)
