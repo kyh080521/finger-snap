@@ -63,8 +63,8 @@ while cap.isOpened():
             idx = int(results[0][0])
 
             if idx == 11:
-                x1, y1 = tuple((joint.min(axis=0)[:2] * [img.shape[1], img.shape[0]]).astype(int))
-                x2, y2 = tuple((joint.max(axis=0)[:2] * [img.shape[1], img.shape[0]]).astype(int))
+                x1, y1 = tuple((joint.min(axis=0)[:2] * [img.shape[1], img.shape[0]] * 0.95).astype(int))
+                x2, y2 = tuple((joint.max(axis=0)[:2] * [img.shape[1], img.shape[0]] * 1.05).astype(int))
 
                 fy_img = img[y1:y2, x1:x2].copy()
                 fy_img = cv2.resize(fy_img, dsize=None, fx=0.05, fy=0.05, interpolation=cv2.INTER_NEAREST)

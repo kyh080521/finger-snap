@@ -10,6 +10,14 @@ Simplify [RRIS](https://github.com/ntu-rris)'s [code](https://github.com/ntu-rri
 python dual.py
 ```
 
+## Fxck You Filter
+
+![](result_fy_filter.png)
+
+```
+python fy_filter.py
+```
+
 ---
 
 # [Google MediaPipe](https://github.com/google/mediapipe) for Pose Estimation
