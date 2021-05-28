@@ -12,6 +12,8 @@ python dual.py
 
 ## Fxck You Filter
 
+Mosaic the middle finger in video.
+
 ![](result_fy_filter.png)
 
 ```
