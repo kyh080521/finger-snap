@@ -4,7 +4,7 @@ Simplify [RRIS](https://github.com/ntu-rris)'s [code](https://github.com/ntu-rri
 
 ![](result.gif)
 
-## Run
+### Run
 
 ```
 python dual.py
@@ -18,6 +18,17 @@ Mosaic the middle finger in video.
 
 ```
 python fy_filter.py
+```
+
+## AI Fan
+
+Controlling the fan speed by AI gesture recognition
+BLDC Motor using [DynamiKontrol](https://dk.m47rix.com) Speed
+
+![](result_fan.gif)
+
+```
+python fan.py
 ```
 
 ---
